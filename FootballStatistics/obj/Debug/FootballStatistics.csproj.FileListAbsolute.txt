@@ -1,0 +1,14 @@
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\bin\Debug\FootballStatistics.exe.config
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\bin\Debug\FootballStatistics.exe
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\bin\Debug\FootballStatistics.pdb
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.csprojResolveAssemblyReference.cache
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.CalculatorStats.resources
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.Properties.Resources.resources
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.csproj.GenerateResource.Cache
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.csproj.CoreCompileInputs.cache
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.exe
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.pdb
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\bin\Debug\FootballStatistics.exe.manifest
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\bin\Debug\FootballStatistics.application
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.exe.manifest
+c:\users\boca_\source\repos\FootballStatistics\FootballStatistics\obj\Debug\FootballStatistics.application
